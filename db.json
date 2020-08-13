@@ -3,7 +3,7 @@
       {
         "id": 11,
         "sku": 105,
-        "img_link": https://i.postimg.cc/xT6BgK0r/100-1.jpg,
+        "img_link": "https://i.postimg.cc/xT6BgK0r/100-1.jpg",
         "title": "Home-Made Chocolate",
         "description": "",
         "availableSizes": ["X", "L"],
