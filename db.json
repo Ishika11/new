@@ -1,0 +1,18 @@
+{
+    "products": [  
+      {
+        "id": 11,
+        "sku": 105,
+        "img_link": "https://ibb.co/wzZZPNY", 
+        "title": "Home-Made Chocolate",
+        "description": "",
+        "availableSizes": ["X", "L"],
+        "style": "With cherries",
+        "price": 150,
+        "installments": 3,
+        "currencyId": "USD",
+        "currencyFormat": "INR",
+        "isFreeShipping": true
+      }
+    ]
+  }
