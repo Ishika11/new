@@ -3,13 +3,58 @@
       {
         "id": 11,
         "sku": 101,
-        "img_link": "https://i.postimg.cc/xT6BgK0r/100-1.jpg",
+        "img_link": "https://i.postimg.cc/fLSfSqsK/105-1.jpg",
         "title": "Home-Made Chocolate",
         "description": "",
         "availableSizes": ["X", "L"],
         "style": "With cherries",
         "price": 150,
         "installments": 3,
+        "currencyId": "USD",
+        "currencyFormat": "INR",
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 13,
+        "sku": 101,
+        "img_link": "https://i.postimg.cc/h432jxqM/101-1.jpg",
+        "title": "Red Velvet",
+        "description": "",
+        "availableSizes": ["M"],
+        "style": "Red Velvet and vanilla",
+        "price": 300,
+        "installments": 5,
+        "currencyId": "USD",
+        "currencyFormat": "INR",
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 14,
+        "sku": 102,
+        "img_link": "https://i.postimg.cc/wBVVdRVX/102-1.jpg",
+        "title": "Cake with macaroons",
+        "description": "GPX Poly 1",
+        "availableSizes": ["X", "L", "XL"],
+        "style": "Rainbow colours",
+        "price": 250,
+        "installments": 3,
+        "currencyId": "USD",
+        "currencyFormat": "INR",
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 15,
+        "sku": 103,
+        "img_link": "https://i.postimg.cc/xT6BgK0r/100-1.jpg",
+        "title": "Vanilla",
+        "description": "Treino 2014",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "style": "Plain and delectable",
+        "price": 190,
+        "installments": 5,
         "currencyId": "USD",
         "currencyFormat": "INR",
         "isFreeShipping": true
